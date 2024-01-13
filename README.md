@@ -3,4 +3,5 @@ The simulated robots are defined as follow:
  - An ultrasonic sensor is embedded, with a limited range (5 meters) 
 - 2 motorized wheels allow the robot to operate in the environment 
 - Its current pose in the environment is known (Position and orientation)
+
 Some questions have been answered and certain strategies have been used to work with robots in gazebo environment. 
